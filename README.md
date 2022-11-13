@@ -6,9 +6,9 @@ A shell script to install XFCE and More on OpenMediaVault.
 ## INSTALLATION
 ```bash
 cd ~
-git clone --depth 1 https://github.com/RapidEdwin08/omvxfce.git
-sudo chmod 755 ~/omvxfce/omvxfce.sh
-cd ~/omvxfce && ./omvxfce.sh
+wget https://raw.githubusercontent.com/RapidEdwin08/omvxfce/main/omvxfce.sh -P ~/
+sudo chmod 755 ~/omvxfce.sh
+./omvxfce.sh
 ```
 
 ## What's Installed:  
