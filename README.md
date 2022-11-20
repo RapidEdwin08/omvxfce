@@ -1,6 +1,8 @@
 # omvxfce
 #XFCE and more for OMV 
 
+**Note: for OMV v5.x Debian Buster**  
+
 A shell script to install XFCE and More on OpenMediaVault.  
 
 ## INSTALLATION
