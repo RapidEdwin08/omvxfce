@@ -1,4 +1,6 @@
 # omvxfce
+![xfce.png](https://raw.githubusercontent.com/RapidEdwin08/omvxfce/main/xfce.png )  
+
 #XFCE and more for OMV 
 
 **Note: for OMV v5.x Debian Buster**  
